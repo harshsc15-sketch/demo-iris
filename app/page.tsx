@@ -270,11 +270,11 @@ export default function HomePage() {
         <div className="founder-copy">
           <p className="eyebrow">From the Founder’s Desk</p>
           <h2>Property is personal.<br /><em>Legacy, even more so.</em></h2>
-          <p>With more than 21 years across real estate strategy, APAC investments, mergers and acquisitions, and fundraising, Sahil brings an operator’s perspective to every conversation.</p>
+          <p>With more than 21years+ across real estate strategy, APAC investments, mergers and acquisitions, and fundraising, Sahil brings an operator’s perspective to every conversation.</p>
           <p>His work spans India, the UAE and the United Kingdom, with a focus on disciplined, cross-border advisory for HNIs and UHNIs. At IRIS, that experience shapes a considered approach to property, wealth and legacy.</p>
           <div className="founder-signature">
             <span className="signature-rule" />
-            <div><strong>Sahil Verma</strong><span>FOUNDER, IRIS LIVING SPACES</span></div>
+            <div><strong>Sahil Verma</strong><span>CO-FOUNDER, IRIS LIVING SPACES</span></div>
           </div>
         </div>
         <div className="founder-portrait">
