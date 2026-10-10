@@ -317,7 +317,7 @@ export default function HomePage() {
             <div><span className="footer-label">Our markets</span><span>India</span><span>Dubai</span><span>London</span><span>Scotland</span></div>
           </div>
         </div>
-        <div className="footer-bottom"><span>© {new Date().getFullYear()} IRIS Living Spaces</span><span>India · Dubai · London · Scotland</span><a href="#home">Back to top ↑</a></div>
+        <div className="footer-bottom"><span>© 2026 IRIS Living Spaces</span><span>India · Dubai · London · Scotland</span><a href="#home">Back to top ↑</a></div>
       </footer>
     </main>
   );
